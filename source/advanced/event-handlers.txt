@@ -96,7 +96,7 @@ definition::
 There are many ways to improve this rather simplistic event handler, but
 it illustrates how events can be used. The first argument to
 ``grok.subscribe()`` is an interface describing the object type. For
-non-object events, this is omitted. The second arugment is the event
+non-object events, this is omitted. The second argument is the event
 type. The arguments to the function reflects these two, so the first
 argument is the ``IPresenter`` instance and the second is an
 ``IObjectAddedEvent`` instance.
