@@ -1,3 +1,8 @@
+.. warning:: THIS REPOSITORY IS OBSOLETE.
+
+    Development of this manual is continuing in the docs folder of
+    the ``plone.app.dexterity`` package.
+
 Introduction
 ============
 
